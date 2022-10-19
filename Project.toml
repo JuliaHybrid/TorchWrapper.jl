@@ -1,0 +1,7 @@
+name = "TorchWrapper"
+uuid = "94661292-9619-499b-b60f-0582803e1a88"
+authors = ["overshiki <le.niu@hotmail.com>"]
+version = "0.1.0"
+
+[deps]
+NestedArray = "03826054-d4ac-482b-9e88-e171687816a8"
